@@ -1,5 +1,7 @@
 # project-of-graduation-
 this is ERD 
+
+
 Entity            meaning 
 User – يمثل الأشخاص اللي بيدخلوا الموقع (مشتري/مؤجر أو مالك).
 
